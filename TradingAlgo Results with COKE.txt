@@ -1,0 +1,724 @@
+Bought 10 stocks at $206.84
+  Actual stock owned: 10 stocks and cash balance: $97931.60
+Bought 10 stocks at $210.97
+  Actual stock owned: 20 stocks and cash balance: $95821.90
+Bought 10 stocks at $208.81
+  Actual stock owned: 30 stocks and cash balance: $93733.80
+Bought 10 stocks at $210.54
+  Actual stock owned: 40 stocks and cash balance: $91628.40
+Bought 10 stocks at $212.20
+  Actual stock owned: 50 stocks and cash balance: $89506.40
+Bought 10 stocks at $213.36
+  Actual stock owned: 60 stocks and cash balance: $87372.80
+Bought 10 stocks at $208.22
+  Actual stock owned: 70 stocks and cash balance: $85290.60
+Bought 10 stocks at $204.67
+  Actual stock owned: 80 stocks and cash balance: $83243.90
+Bought 10 stocks at $205.18
+  Actual stock owned: 90 stocks and cash balance: $81192.10
+Bought 10 stocks at $210.07
+  Actual stock owned: 100 stocks and cash balance: $79091.40
+Bought 10 stocks at $208.73
+  Actual stock owned: 110 stocks and cash balance: $77004.10
+Bought 10 stocks at $208.19
+  Actual stock owned: 120 stocks and cash balance: $74922.20
+Bought 10 stocks at $202.64
+  Actual stock owned: 130 stocks and cash balance: $72895.80
+Bought 10 stocks at $205.96
+  Actual stock owned: 140 stocks and cash balance: $70836.20
+Sold 10 stocks at $226.37
+  Actual stock owned: 130 stocks and cash balance: $73099.90
+Bought 10 stocks at $206.26
+  Actual stock owned: 140 stocks and cash balance: $71037.30
+Bought 10 stocks at $198.01
+  Actual stock owned: 150 stocks and cash balance: $69057.20
+Bought 10 stocks at $195.87
+  Actual stock owned: 160 stocks and cash balance: $67098.50
+Bought 10 stocks at $202.12
+  Actual stock owned: 170 stocks and cash balance: $65077.30
+Bought 10 stocks at $204.15
+  Actual stock owned: 180 stocks and cash balance: $63035.80
+Bought 10 stocks at $199.88
+  Actual stock owned: 190 stocks and cash balance: $61037.00
+Bought 10 stocks at $204.42
+  Actual stock owned: 200 stocks and cash balance: $58992.80
+Bought 10 stocks at $202.74
+  Actual stock owned: 210 stocks and cash balance: $56965.40
+Sold 10 stocks at $218.88
+  Actual stock owned: 200 stocks and cash balance: $59154.20
+Sold 10 stocks at $225.20
+  Actual stock owned: 190 stocks and cash balance: $61406.20
+Sold 10 stocks at $224.97
+  Actual stock owned: 180 stocks and cash balance: $63655.90
+Sold 10 stocks at $227.52
+  Actual stock owned: 170 stocks and cash balance: $65931.10
+Sold 10 stocks at $223.23
+  Actual stock owned: 160 stocks and cash balance: $68163.40
+Sold 10 stocks at $226.39
+  Actual stock owned: 150 stocks and cash balance: $70427.30
+Bought 10 stocks at $209.00
+  Actual stock owned: 160 stocks and cash balance: $68337.30
+Bought 10 stocks at $205.51
+  Actual stock owned: 170 stocks and cash balance: $66282.20
+Bought 10 stocks at $202.00
+  Actual stock owned: 180 stocks and cash balance: $64262.20
+Bought 10 stocks at $205.50
+  Actual stock owned: 190 stocks and cash balance: $62207.20
+Bought 10 stocks at $205.18
+  Actual stock owned: 200 stocks and cash balance: $60155.40
+Bought 10 stocks at $203.96
+  Actual stock owned: 210 stocks and cash balance: $58115.80
+Bought 10 stocks at $200.51
+  Actual stock owned: 220 stocks and cash balance: $56110.70
+Bought 10 stocks at $201.69
+  Actual stock owned: 230 stocks and cash balance: $54093.80
+Bought 10 stocks at $186.70
+  Actual stock owned: 240 stocks and cash balance: $52226.80
+Bought 10 stocks at $184.56
+  Actual stock owned: 250 stocks and cash balance: $50381.20
+Bought 10 stocks at $187.61
+  Actual stock owned: 260 stocks and cash balance: $48505.10
+Bought 10 stocks at $182.58
+  Actual stock owned: 270 stocks and cash balance: $46679.30
+Bought 10 stocks at $182.29
+  Actual stock owned: 280 stocks and cash balance: $44856.40
+Bought 10 stocks at $180.97
+  Actual stock owned: 290 stocks and cash balance: $43046.70
+Bought 10 stocks at $183.41
+  Actual stock owned: 300 stocks and cash balance: $41212.60
+Bought 10 stocks at $183.79
+  Actual stock owned: 310 stocks and cash balance: $39374.70
+Bought 10 stocks at $183.52
+  Actual stock owned: 320 stocks and cash balance: $37539.50
+Bought 10 stocks at $169.59
+  Actual stock owned: 330 stocks and cash balance: $35843.60
+Bought 10 stocks at $173.56
+  Actual stock owned: 340 stocks and cash balance: $34108.00
+Bought 10 stocks at $172.55
+  Actual stock owned: 350 stocks and cash balance: $32382.50
+Bought 10 stocks at $170.30
+  Actual stock owned: 360 stocks and cash balance: $30679.50
+Bought 10 stocks at $162.40
+  Actual stock owned: 370 stocks and cash balance: $29055.50
+Bought 10 stocks at $133.11
+  Actual stock owned: 380 stocks and cash balance: $27724.40
+Bought 10 stocks at $137.66
+  Actual stock owned: 390 stocks and cash balance: $26347.80
+Bought 10 stocks at $130.85
+  Actual stock owned: 400 stocks and cash balance: $25039.30
+Bought 10 stocks at $126.80
+  Actual stock owned: 410 stocks and cash balance: $23771.30
+Bought 10 stocks at $127.22
+  Actual stock owned: 420 stocks and cash balance: $22499.10
+Bought 10 stocks at $126.48
+  Actual stock owned: 430 stocks and cash balance: $21234.30
+Bought 10 stocks at $129.76
+  Actual stock owned: 440 stocks and cash balance: $19936.70
+Bought 10 stocks at $129.26
+  Actual stock owned: 450 stocks and cash balance: $18644.10
+Bought 10 stocks at $129.27
+  Actual stock owned: 460 stocks and cash balance: $17351.40
+Bought 10 stocks at $128.64
+  Actual stock owned: 470 stocks and cash balance: $16065.00
+Bought 10 stocks at $128.76
+  Actual stock owned: 480 stocks and cash balance: $14777.40
+Bought 10 stocks at $127.44
+  Actual stock owned: 490 stocks and cash balance: $13503.00
+Bought 10 stocks at $126.97
+  Actual stock owned: 500 stocks and cash balance: $12233.30
+Bought 10 stocks at $128.49
+  Actual stock owned: 510 stocks and cash balance: $10948.40
+Bought 10 stocks at $129.29
+  Actual stock owned: 520 stocks and cash balance: $9655.50
+Bought 10 stocks at $127.41
+  Actual stock owned: 530 stocks and cash balance: $8381.40
+Bought 10 stocks at $126.66
+  Actual stock owned: 540 stocks and cash balance: $7114.80
+Sold 10 stocks at $145.12
+  Actual stock owned: 530 stocks and cash balance: $8566.00
+Sold 10 stocks at $148.02
+  Actual stock owned: 520 stocks and cash balance: $10046.20
+Sold 10 stocks at $148.15
+  Actual stock owned: 510 stocks and cash balance: $11527.70
+Sold 10 stocks at $149.48
+  Actual stock owned: 500 stocks and cash balance: $13022.50
+Sold 10 stocks at $151.74
+  Actual stock owned: 490 stocks and cash balance: $14539.90
+Sold 10 stocks at $152.02
+  Actual stock owned: 480 stocks and cash balance: $16060.10
+Sold 10 stocks at $153.35
+  Actual stock owned: 470 stocks and cash balance: $17593.60
+Sold 10 stocks at $166.37
+  Actual stock owned: 460 stocks and cash balance: $19257.30
+Sold 10 stocks at $160.71
+  Actual stock owned: 450 stocks and cash balance: $20864.40
+Sold 10 stocks at $166.22
+  Actual stock owned: 440 stocks and cash balance: $22526.60
+Sold 10 stocks at $169.47
+  Actual stock owned: 430 stocks and cash balance: $24221.30
+Sold 10 stocks at $172.46
+  Actual stock owned: 420 stocks and cash balance: $25945.90
+Sold 10 stocks at $173.50
+  Actual stock owned: 410 stocks and cash balance: $27680.90
+Sold 10 stocks at $174.81
+  Actual stock owned: 400 stocks and cash balance: $29429.00
+Sold 10 stocks at $172.29
+  Actual stock owned: 390 stocks and cash balance: $31151.90
+Sold 10 stocks at $173.02
+  Actual stock owned: 380 stocks and cash balance: $32882.10
+Sold 10 stocks at $171.73
+  Actual stock owned: 370 stocks and cash balance: $34599.40
+Sold 10 stocks at $169.51
+  Actual stock owned: 360 stocks and cash balance: $36294.50
+Sold 10 stocks at $169.60
+  Actual stock owned: 350 stocks and cash balance: $37990.50
+Sold 10 stocks at $178.40
+  Actual stock owned: 340 stocks and cash balance: $39774.50
+Sold 10 stocks at $178.86
+  Actual stock owned: 330 stocks and cash balance: $41563.10
+Sold 10 stocks at $180.94
+  Actual stock owned: 320 stocks and cash balance: $43372.50
+Sold 10 stocks at $181.18
+  Actual stock owned: 310 stocks and cash balance: $45184.30
+Sold 10 stocks at $186.76
+  Actual stock owned: 300 stocks and cash balance: $47051.90
+Sold 10 stocks at $184.00
+  Actual stock owned: 290 stocks and cash balance: $48891.90
+Sold 10 stocks at $184.09
+  Actual stock owned: 280 stocks and cash balance: $50732.80
+Sold 10 stocks at $183.87
+  Actual stock owned: 270 stocks and cash balance: $52571.50
+Sold 10 stocks at $183.68
+  Actual stock owned: 260 stocks and cash balance: $54408.30
+Bought 10 stocks at $168.77
+  Actual stock owned: 270 stocks and cash balance: $52720.60
+Bought 10 stocks at $167.06
+  Actual stock owned: 280 stocks and cash balance: $51050.00
+Bought 10 stocks at $164.31
+  Actual stock owned: 290 stocks and cash balance: $49406.90
+Bought 10 stocks at $167.98
+  Actual stock owned: 300 stocks and cash balance: $47727.10
+Bought 10 stocks at $168.46
+  Actual stock owned: 310 stocks and cash balance: $46042.50
+Bought 10 stocks at $163.20
+  Actual stock owned: 320 stocks and cash balance: $44410.50
+Bought 10 stocks at $162.02
+  Actual stock owned: 330 stocks and cash balance: $42790.30
+Bought 10 stocks at $162.27
+  Actual stock owned: 340 stocks and cash balance: $41167.60
+Bought 10 stocks at $163.43
+  Actual stock owned: 350 stocks and cash balance: $39533.30
+Bought 10 stocks at $161.11
+  Actual stock owned: 360 stocks and cash balance: $37922.20
+Sold 10 stocks at $174.32
+  Actual stock owned: 350 stocks and cash balance: $39665.40
+Sold 10 stocks at $175.77
+  Actual stock owned: 340 stocks and cash balance: $41423.10
+Sold 10 stocks at $179.83
+  Actual stock owned: 330 stocks and cash balance: $43221.40
+Sold 10 stocks at $179.95
+  Actual stock owned: 320 stocks and cash balance: $45020.90
+Sold 10 stocks at $182.39
+  Actual stock owned: 310 stocks and cash balance: $46844.80
+Sold 10 stocks at $192.40
+  Actual stock owned: 300 stocks and cash balance: $48768.80
+Sold 10 stocks at $189.67
+  Actual stock owned: 290 stocks and cash balance: $50665.50
+Sold 10 stocks at $189.88
+  Actual stock owned: 280 stocks and cash balance: $52564.30
+Sold 10 stocks at $189.65
+  Actual stock owned: 270 stocks and cash balance: $54460.80
+Sold 10 stocks at $193.50
+  Actual stock owned: 260 stocks and cash balance: $56395.80
+Sold 10 stocks at $193.97
+  Actual stock owned: 250 stocks and cash balance: $58335.50
+Sold 10 stocks at $198.67
+  Actual stock owned: 240 stocks and cash balance: $60322.20
+Sold 10 stocks at $195.32
+  Actual stock owned: 230 stocks and cash balance: $62275.40
+Sold 10 stocks at $198.19
+  Actual stock owned: 220 stocks and cash balance: $64257.30
+Sold 10 stocks at $199.78
+  Actual stock owned: 210 stocks and cash balance: $66255.10
+Sold 10 stocks at $199.44
+  Actual stock owned: 200 stocks and cash balance: $68249.50
+Sold 10 stocks at $205.14
+  Actual stock owned: 190 stocks and cash balance: $70300.90
+Sold 10 stocks at $214.00
+  Actual stock owned: 180 stocks and cash balance: $72440.90
+Sold 10 stocks at $208.03
+  Actual stock owned: 170 stocks and cash balance: $74521.20
+Sold 10 stocks at $212.52
+  Actual stock owned: 160 stocks and cash balance: $76646.40
+Sold 10 stocks at $216.91
+  Actual stock owned: 150 stocks and cash balance: $78815.50
+Sold 10 stocks at $212.32
+  Actual stock owned: 140 stocks and cash balance: $80938.70
+Sold 10 stocks at $215.05
+  Actual stock owned: 130 stocks and cash balance: $83089.20
+Sold 10 stocks at $218.15
+  Actual stock owned: 120 stocks and cash balance: $85270.70
+Sold 10 stocks at $218.95
+  Actual stock owned: 110 stocks and cash balance: $87460.20
+Sold 10 stocks at $216.38
+  Actual stock owned: 100 stocks and cash balance: $89624.00
+Bought 10 stocks at $189.44
+  Actual stock owned: 110 stocks and cash balance: $87729.60
+Bought 10 stocks at $188.81
+  Actual stock owned: 120 stocks and cash balance: $85841.50
+Bought 10 stocks at $180.39
+  Actual stock owned: 130 stocks and cash balance: $84037.60
+Bought 10 stocks at $172.31
+  Actual stock owned: 140 stocks and cash balance: $82314.50
+Bought 10 stocks at $175.83
+  Actual stock owned: 150 stocks and cash balance: $80556.20
+Bought 10 stocks at $176.59
+  Actual stock owned: 160 stocks and cash balance: $78790.30
+Bought 10 stocks at $179.55
+  Actual stock owned: 170 stocks and cash balance: $76994.80
+Bought 10 stocks at $177.38
+  Actual stock owned: 180 stocks and cash balance: $75221.00
+Bought 10 stocks at $180.11
+  Actual stock owned: 190 stocks and cash balance: $73419.90
+Bought 10 stocks at $177.89
+  Actual stock owned: 200 stocks and cash balance: $71641.00
+Bought 10 stocks at $181.89
+  Actual stock owned: 210 stocks and cash balance: $69822.10
+Sold 10 stocks at $208.66
+  Actual stock owned: 200 stocks and cash balance: $71908.70
+Sold 10 stocks at $200.66
+  Actual stock owned: 190 stocks and cash balance: $73915.30
+Sold 10 stocks at $201.34
+  Actual stock owned: 180 stocks and cash balance: $75928.70
+Sold 10 stocks at $199.11
+  Actual stock owned: 170 stocks and cash balance: $77919.80
+Sold 10 stocks at $205.24
+  Actual stock owned: 160 stocks and cash balance: $79972.20
+Sold 10 stocks at $207.45
+  Actual stock owned: 150 stocks and cash balance: $82046.70
+Sold 10 stocks at $208.11
+  Actual stock owned: 140 stocks and cash balance: $84127.80
+Sold 10 stocks at $213.81
+  Actual stock owned: 130 stocks and cash balance: $86265.90
+Sold 10 stocks at $213.76
+  Actual stock owned: 120 stocks and cash balance: $88403.50
+Sold 10 stocks at $211.62
+  Actual stock owned: 110 stocks and cash balance: $90519.70
+Sold 10 stocks at $211.36
+  Actual stock owned: 100 stocks and cash balance: $92633.30
+Sold 10 stocks at $210.45
+  Actual stock owned: 90 stocks and cash balance: $94737.80
+Sold 10 stocks at $211.75
+  Actual stock owned: 80 stocks and cash balance: $96855.30
+Sold 10 stocks at $215.80
+  Actual stock owned: 70 stocks and cash balance: $99013.30
+Sold 10 stocks at $216.99
+  Actual stock owned: 60 stocks and cash balance: $101183.20
+Sold 10 stocks at $220.00
+  Actual stock owned: 50 stocks and cash balance: $103383.20
+Sold 10 stocks at $217.13
+  Actual stock owned: 40 stocks and cash balance: $105554.50
+Sold 10 stocks at $220.50
+  Actual stock owned: 30 stocks and cash balance: $107759.50
+Sold 10 stocks at $224.61
+  Actual stock owned: 20 stocks and cash balance: $110005.60
+Sold 10 stocks at $224.88
+  Actual stock owned: 10 stocks and cash balance: $112254.40
+Sold 10 stocks at $225.93
+  Actual stock owned: 0 stocks and cash balance: $114513.70
+Bought 10 stocks at $313.05
+  Actual stock owned: 10 stocks and cash balance: $111383.20
+Bought 10 stocks at $313.89
+  Actual stock owned: 20 stocks and cash balance: $108244.30
+Bought 10 stocks at $310.55
+  Actual stock owned: 30 stocks and cash balance: $105138.80
+Bought 10 stocks at $318.73
+  Actual stock owned: 40 stocks and cash balance: $101951.50
+Bought 10 stocks at $304.40
+  Actual stock owned: 50 stocks and cash balance: $98907.50
+Bought 10 stocks at $307.34
+  Actual stock owned: 60 stocks and cash balance: $95834.10
+Bought 10 stocks at $305.66
+  Actual stock owned: 70 stocks and cash balance: $92777.50
+Bought 10 stocks at $306.20
+  Actual stock owned: 80 stocks and cash balance: $89715.50
+Bought 10 stocks at $311.73
+  Actual stock owned: 90 stocks and cash balance: $86598.20
+Bought 10 stocks at $302.01
+  Actual stock owned: 100 stocks and cash balance: $83578.10
+Bought 10 stocks at $298.46
+  Actual stock owned: 110 stocks and cash balance: $80593.50
+Bought 10 stocks at $295.99
+  Actual stock owned: 120 stocks and cash balance: $77633.60
+Bought 10 stocks at $308.79
+  Actual stock owned: 130 stocks and cash balance: $74545.70
+Bought 10 stocks at $280.28
+  Actual stock owned: 140 stocks and cash balance: $71742.90
+Sold 10 stocks at $324.79
+  Actual stock owned: 130 stocks and cash balance: $74990.80
+Sold 10 stocks at $336.55
+  Actual stock owned: 120 stocks and cash balance: $78356.30
+Sold 10 stocks at $333.76
+  Actual stock owned: 110 stocks and cash balance: $81693.90
+Sold 10 stocks at $346.50
+  Actual stock owned: 100 stocks and cash balance: $85158.90
+Sold 10 stocks at $352.13
+  Actual stock owned: 90 stocks and cash balance: $88680.20
+Sold 10 stocks at $347.53
+  Actual stock owned: 80 stocks and cash balance: $92155.50
+Sold 10 stocks at $356.93
+  Actual stock owned: 70 stocks and cash balance: $95724.80
+Sold 10 stocks at $364.81
+  Actual stock owned: 60 stocks and cash balance: $99372.90
+Sold 10 stocks at $368.91
+  Actual stock owned: 50 stocks and cash balance: $103062.00
+Sold 10 stocks at $365.82
+  Actual stock owned: 40 stocks and cash balance: $106720.20
+Sold 10 stocks at $349.60
+  Actual stock owned: 30 stocks and cash balance: $110216.20
+Sold 10 stocks at $355.69
+  Actual stock owned: 20 stocks and cash balance: $113773.10
+Bought 10 stocks at $312.80
+  Actual stock owned: 30 stocks and cash balance: $110645.10
+Bought 10 stocks at $305.83
+  Actual stock owned: 40 stocks and cash balance: $107586.80
+Bought 10 stocks at $298.51
+  Actual stock owned: 50 stocks and cash balance: $104601.70
+Bought 10 stocks at $292.45
+  Actual stock owned: 60 stocks and cash balance: $101677.20
+Bought 10 stocks at $289.27
+  Actual stock owned: 70 stocks and cash balance: $98784.50
+Bought 10 stocks at $294.63
+  Actual stock owned: 80 stocks and cash balance: $95838.20
+Bought 10 stocks at $300.17
+  Actual stock owned: 90 stocks and cash balance: $92836.50
+Bought 10 stocks at $290.96
+  Actual stock owned: 100 stocks and cash balance: $89926.90
+Bought 10 stocks at $286.98
+  Actual stock owned: 110 stocks and cash balance: $87057.10
+Bought 10 stocks at $286.06
+  Actual stock owned: 120 stocks and cash balance: $84196.50
+Bought 10 stocks at $298.03
+  Actual stock owned: 130 stocks and cash balance: $81216.20
+Bought 10 stocks at $294.10
+  Actual stock owned: 140 stocks and cash balance: $78275.20
+Bought 10 stocks at $294.87
+  Actual stock owned: 150 stocks and cash balance: $75326.50
+Bought 10 stocks at $271.19
+  Actual stock owned: 160 stocks and cash balance: $72614.60
+Bought 10 stocks at $276.77
+  Actual stock owned: 170 stocks and cash balance: $69846.90
+Bought 10 stocks at $272.08
+  Actual stock owned: 180 stocks and cash balance: $67126.10
+Bought 10 stocks at $271.76
+  Actual stock owned: 190 stocks and cash balance: $64408.50
+Bought 10 stocks at $271.16
+  Actual stock owned: 200 stocks and cash balance: $61696.90
+Bought 10 stocks at $262.10
+  Actual stock owned: 210 stocks and cash balance: $59075.90
+Bought 10 stocks at $265.20
+  Actual stock owned: 220 stocks and cash balance: $56423.90
+Bought 10 stocks at $266.70
+  Actual stock owned: 230 stocks and cash balance: $53756.90
+Bought 10 stocks at $264.85
+  Actual stock owned: 240 stocks and cash balance: $51108.40
+Sold 10 stocks at $292.64
+  Actual stock owned: 230 stocks and cash balance: $54034.80
+Sold 10 stocks at $293.65
+  Actual stock owned: 220 stocks and cash balance: $56971.30
+Bought 10 stocks at $255.98
+  Actual stock owned: 230 stocks and cash balance: $54411.50
+Bought 10 stocks at $210.00
+  Actual stock owned: 240 stocks and cash balance: $52311.50
+Bought 10 stocks at $201.02
+  Actual stock owned: 250 stocks and cash balance: $50301.30
+Bought 10 stocks at $196.38
+  Actual stock owned: 260 stocks and cash balance: $48337.50
+Bought 10 stocks at $221.02
+  Actual stock owned: 270 stocks and cash balance: $46127.30
+Bought 10 stocks at $211.96
+  Actual stock owned: 280 stocks and cash balance: $44007.70
+Bought 10 stocks at $215.99
+  Actual stock owned: 290 stocks and cash balance: $41847.80
+Bought 10 stocks at $206.46
+  Actual stock owned: 300 stocks and cash balance: $39783.20
+Bought 10 stocks at $206.05
+  Actual stock owned: 310 stocks and cash balance: $37722.70
+Bought 10 stocks at $198.60
+  Actual stock owned: 320 stocks and cash balance: $35736.70
+Bought 10 stocks at $218.14
+  Actual stock owned: 330 stocks and cash balance: $33555.30
+Bought 10 stocks at $206.00
+  Actual stock owned: 340 stocks and cash balance: $31495.30
+Bought 10 stocks at $203.53
+  Actual stock owned: 350 stocks and cash balance: $29460.00
+Bought 10 stocks at $216.69
+  Actual stock owned: 360 stocks and cash balance: $27293.10
+Bought 10 stocks at $201.05
+  Actual stock owned: 370 stocks and cash balance: $25282.60
+Bought 10 stocks at $206.32
+  Actual stock owned: 380 stocks and cash balance: $23219.40
+Bought 10 stocks at $201.00
+  Actual stock owned: 390 stocks and cash balance: $21209.40
+Bought 10 stocks at $192.57
+  Actual stock owned: 400 stocks and cash balance: $19283.70
+Bought 10 stocks at $193.39
+  Actual stock owned: 410 stocks and cash balance: $17349.80
+Sold 10 stocks at $218.65
+  Actual stock owned: 400 stocks and cash balance: $19536.30
+Sold 10 stocks at $219.95
+  Actual stock owned: 390 stocks and cash balance: $21735.80
+Bought 10 stocks at $194.09
+  Actual stock owned: 400 stocks and cash balance: $19794.90
+Sold 10 stocks at $221.47
+  Actual stock owned: 390 stocks and cash balance: $22009.60
+Sold 10 stocks at $223.00
+  Actual stock owned: 380 stocks and cash balance: $24239.60
+Sold 10 stocks at $230.01
+  Actual stock owned: 370 stocks and cash balance: $26539.70
+Sold 10 stocks at $253.17
+  Actual stock owned: 360 stocks and cash balance: $29071.40
+Sold 10 stocks at $238.19
+  Actual stock owned: 350 stocks and cash balance: $31453.30
+Sold 10 stocks at $241.97
+  Actual stock owned: 340 stocks and cash balance: $33873.00
+Sold 10 stocks at $234.41
+  Actual stock owned: 330 stocks and cash balance: $36217.10
+Sold 10 stocks at $236.76
+  Actual stock owned: 320 stocks and cash balance: $38584.70
+Sold 10 stocks at $242.98
+  Actual stock owned: 310 stocks and cash balance: $41014.50
+Sold 10 stocks at $234.90
+  Actual stock owned: 300 stocks and cash balance: $43363.50
+Sold 10 stocks at $238.05
+  Actual stock owned: 290 stocks and cash balance: $45744.00
+Sold 10 stocks at $237.59
+  Actual stock owned: 280 stocks and cash balance: $48119.90
+Sold 10 stocks at $242.53
+  Actual stock owned: 270 stocks and cash balance: $50545.20
+Sold 10 stocks at $250.54
+  Actual stock owned: 260 stocks and cash balance: $53050.60
+Bought 10 stocks at $221.53
+  Actual stock owned: 270 stocks and cash balance: $50835.30
+Bought 10 stocks at $221.27
+  Actual stock owned: 280 stocks and cash balance: $48622.60
+Sold 10 stocks at $269.00
+  Actual stock owned: 270 stocks and cash balance: $51312.60
+Sold 10 stocks at $258.03
+  Actual stock owned: 260 stocks and cash balance: $53892.90
+Sold 10 stocks at $263.22
+  Actual stock owned: 250 stocks and cash balance: $56525.10
+Sold 10 stocks at $274.91
+  Actual stock owned: 240 stocks and cash balance: $59274.20
+Sold 10 stocks at $271.12
+  Actual stock owned: 230 stocks and cash balance: $61985.40
+Sold 10 stocks at $272.79
+  Actual stock owned: 220 stocks and cash balance: $64713.30
+Sold 10 stocks at $274.32
+  Actual stock owned: 210 stocks and cash balance: $67456.50
+Sold 10 stocks at $276.48
+  Actual stock owned: 200 stocks and cash balance: $70221.30
+Sold 10 stocks at $272.78
+  Actual stock owned: 190 stocks and cash balance: $72949.10
+Sold 10 stocks at $272.70
+  Actual stock owned: 180 stocks and cash balance: $75676.10
+Sold 10 stocks at $272.78
+  Actual stock owned: 170 stocks and cash balance: $78403.90
+Sold 10 stocks at $270.55
+  Actual stock owned: 160 stocks and cash balance: $81109.40
+Sold 10 stocks at $267.39
+  Actual stock owned: 150 stocks and cash balance: $83783.30
+Sold 10 stocks at $277.46
+  Actual stock owned: 140 stocks and cash balance: $86557.90
+Sold 10 stocks at $274.59
+  Actual stock owned: 130 stocks and cash balance: $89303.80
+Sold 10 stocks at $273.84
+  Actual stock owned: 120 stocks and cash balance: $92042.20
+Sold 10 stocks at $278.49
+  Actual stock owned: 110 stocks and cash balance: $94827.10
+Bought 10 stocks at $254.73
+  Actual stock owned: 120 stocks and cash balance: $92279.80
+Bought 10 stocks at $249.49
+  Actual stock owned: 130 stocks and cash balance: $89784.90
+Bought 10 stocks at $244.62
+  Actual stock owned: 140 stocks and cash balance: $87338.70
+Bought 10 stocks at $236.30
+  Actual stock owned: 150 stocks and cash balance: $84975.70
+Bought 10 stocks at $239.31
+  Actual stock owned: 160 stocks and cash balance: $82582.60
+Bought 10 stocks at $230.24
+  Actual stock owned: 170 stocks and cash balance: $80280.20
+Bought 10 stocks at $239.73
+  Actual stock owned: 180 stocks and cash balance: $77882.90
+Bought 10 stocks at $240.16
+  Actual stock owned: 190 stocks and cash balance: $75481.30
+Bought 10 stocks at $241.11
+  Actual stock owned: 200 stocks and cash balance: $73070.20
+Bought 10 stocks at $238.98
+  Actual stock owned: 210 stocks and cash balance: $70680.40
+Bought 10 stocks at $240.68
+  Actual stock owned: 220 stocks and cash balance: $68273.60
+Bought 10 stocks at $239.31
+  Actual stock owned: 230 stocks and cash balance: $65880.50
+Sold 10 stocks at $254.07
+  Actual stock owned: 220 stocks and cash balance: $68421.20
+Bought 10 stocks at $231.09
+  Actual stock owned: 230 stocks and cash balance: $66110.30
+Bought 10 stocks at $228.95
+  Actual stock owned: 240 stocks and cash balance: $63820.80
+Bought 10 stocks at $226.37
+  Actual stock owned: 250 stocks and cash balance: $61557.10
+Sold 10 stocks at $255.59
+  Actual stock owned: 240 stocks and cash balance: $64113.00
+Sold 10 stocks at $260.00
+  Actual stock owned: 230 stocks and cash balance: $66713.00
+Sold 10 stocks at $258.47
+  Actual stock owned: 220 stocks and cash balance: $69297.70
+Sold 10 stocks at $266.75
+  Actual stock owned: 210 stocks and cash balance: $71965.20
+Sold 10 stocks at $269.63
+  Actual stock owned: 200 stocks and cash balance: $74661.50
+Sold 10 stocks at $268.34
+  Actual stock owned: 190 stocks and cash balance: $77344.90
+Sold 10 stocks at $268.64
+  Actual stock owned: 180 stocks and cash balance: $80031.30
+Sold 10 stocks at $263.89
+  Actual stock owned: 170 stocks and cash balance: $82670.20
+Sold 10 stocks at $262.43
+  Actual stock owned: 160 stocks and cash balance: $85294.50
+Sold 10 stocks at $270.87
+  Actual stock owned: 150 stocks and cash balance: $88003.20
+Sold 10 stocks at $265.33
+  Actual stock owned: 140 stocks and cash balance: $90656.50
+Sold 10 stocks at $283.20
+  Actual stock owned: 130 stocks and cash balance: $93488.50
+Bought 10 stocks at $256.66
+  Actual stock owned: 140 stocks and cash balance: $90921.90
+Bought 10 stocks at $254.40
+  Actual stock owned: 150 stocks and cash balance: $88377.90
+Bought 10 stocks at $254.96
+  Actual stock owned: 160 stocks and cash balance: $85828.30
+Sold 10 stocks at $282.57
+  Actual stock owned: 150 stocks and cash balance: $88654.00
+Sold 10 stocks at $281.76
+  Actual stock owned: 140 stocks and cash balance: $91471.60
+Sold 10 stocks at $288.98
+  Actual stock owned: 130 stocks and cash balance: $94361.40
+Sold 10 stocks at $295.16
+  Actual stock owned: 120 stocks and cash balance: $97313.00
+Sold 10 stocks at $302.64
+  Actual stock owned: 110 stocks and cash balance: $100339.40
+Sold 10 stocks at $305.59
+  Actual stock owned: 100 stocks and cash balance: $103395.30
+Sold 10 stocks at $309.20
+  Actual stock owned: 90 stocks and cash balance: $106487.30
+Sold 10 stocks at $303.97
+  Actual stock owned: 80 stocks and cash balance: $109527.00
+Sold 10 stocks at $301.03
+  Actual stock owned: 70 stocks and cash balance: $112537.30
+Sold 10 stocks at $296.73
+  Actual stock owned: 60 stocks and cash balance: $115504.60
+Sold 10 stocks at $297.56
+  Actual stock owned: 50 stocks and cash balance: $118480.20
+Sold 10 stocks at $302.70
+  Actual stock owned: 40 stocks and cash balance: $121507.20
+Sold 10 stocks at $312.97
+  Actual stock owned: 30 stocks and cash balance: $124636.90
+Sold 10 stocks at $314.51
+  Actual stock owned: 20 stocks and cash balance: $127782.00
+Bought 10 stocks at $286.11
+  Actual stock owned: 30 stocks and cash balance: $124920.90
+Sold 10 stocks at $327.76
+  Actual stock owned: 20 stocks and cash balance: $128198.50
+Sold 10 stocks at $330.66
+  Actual stock owned: 10 stocks and cash balance: $131505.10
+Sold 10 stocks at $336.19
+  Actual stock owned: 0 stocks and cash balance: $134867.00
+Bought 10 stocks at $398.39
+  Actual stock owned: 10 stocks and cash balance: $130883.10
+Bought 10 stocks at $393.39
+  Actual stock owned: 20 stocks and cash balance: $126949.20
+Bought 10 stocks at $388.55
+  Actual stock owned: 30 stocks and cash balance: $123063.70
+Bought 10 stocks at $384.09
+  Actual stock owned: 40 stocks and cash balance: $119222.80
+Bought 10 stocks at $384.86
+  Actual stock owned: 50 stocks and cash balance: $115374.20
+Sold 10 stocks at $433.80
+  Actual stock owned: 40 stocks and cash balance: $119712.20
+Sold 10 stocks at $426.73
+  Actual stock owned: 30 stocks and cash balance: $123979.50
+Sold 10 stocks at $426.90
+  Actual stock owned: 20 stocks and cash balance: $128248.50
+Sold 10 stocks at $480.00
+  Actual stock owned: 10 stocks and cash balance: $133048.50
+Sold 10 stocks at $487.76
+  Actual stock owned: 0 stocks and cash balance: $137926.10
+Bought 10 stocks at $566.85
+  Actual stock owned: 10 stocks and cash balance: $132257.60
+Bought 10 stocks at $446.66
+  Actual stock owned: 20 stocks and cash balance: $127791.00
+Bought 10 stocks at $445.94
+  Actual stock owned: 30 stocks and cash balance: $123331.60
+Bought 10 stocks at $489.09
+  Actual stock owned: 40 stocks and cash balance: $118440.70
+Bought 10 stocks at $496.93
+  Actual stock owned: 50 stocks and cash balance: $113471.40
+Bought 10 stocks at $483.91
+  Actual stock owned: 60 stocks and cash balance: $108632.30
+Bought 10 stocks at $494.41
+  Actual stock owned: 70 stocks and cash balance: $103688.20
+Bought 10 stocks at $467.80
+  Actual stock owned: 80 stocks and cash balance: $99010.20
+Bought 10 stocks at $457.21
+  Actual stock owned: 90 stocks and cash balance: $94438.10
+Bought 10 stocks at $442.40
+  Actual stock owned: 100 stocks and cash balance: $90014.10
+Bought 10 stocks at $459.11
+  Actual stock owned: 110 stocks and cash balance: $85423.00
+Bought 10 stocks at $475.42
+  Actual stock owned: 120 stocks and cash balance: $80668.80
+Bought 10 stocks at $468.80
+  Actual stock owned: 130 stocks and cash balance: $75980.80
+Bought 10 stocks at $450.45
+  Actual stock owned: 140 stocks and cash balance: $71476.30
+Bought 10 stocks at $451.21
+  Actual stock owned: 150 stocks and cash balance: $66964.20
+Sold 10 stocks at $513.11
+  Actual stock owned: 140 stocks and cash balance: $72095.30
+Sold 10 stocks at $513.60
+  Actual stock owned: 130 stocks and cash balance: $77231.30
+Bought 10 stocks at $462.00
+  Actual stock owned: 140 stocks and cash balance: $72611.30
+Bought 10 stocks at $461.00
+  Actual stock owned: 150 stocks and cash balance: $68001.30
+Bought 10 stocks at $441.50
+  Actual stock owned: 160 stocks and cash balance: $63586.30
+Bought 10 stocks at $448.79
+  Actual stock owned: 170 stocks and cash balance: $59098.40
+Bought 10 stocks at $449.53
+  Actual stock owned: 180 stocks and cash balance: $54603.10
+Sold 10 stocks at $502.61
+  Actual stock owned: 170 stocks and cash balance: $59629.20
+Sold 10 stocks at $514.01
+  Actual stock owned: 160 stocks and cash balance: $64769.30
+Sold 10 stocks at $530.80
+  Actual stock owned: 150 stocks and cash balance: $70077.30
+Sold 10 stocks at $529.69
+  Actual stock owned: 140 stocks and cash balance: $75374.20
+Sold 10 stocks at $525.49
+  Actual stock owned: 130 stocks and cash balance: $80629.10
+Sold 130 stocks at $543.25
+  Actual stock owned: 0 stocks and cash balance: $151251.60
+The results using moving average are : 0 unit in stock and $151251 as cash balance.
+-----------------------------
+
+Bought 200 stocks at $225.25
+  Actual stock owned: 200 stocks and cash balance: $54950.00
+Bought 200 stocks at $168.55
+  Actual stock owned: 400 stocks and cash balance: $21240.00
+Sold 200 stocks at $205.14
+  Actual stock owned: 200 stocks and cash balance: $62268.00
+Sold 200 stocks at $543.25
+  Actual stock owned: 0 stocks and cash balance: $170918.00
+The results using the scalping method are :0 unit in stock and $170917 as cash balance.
