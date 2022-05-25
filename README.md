@@ -1,0 +1,1 @@
+# Moving-Average-Scalping-Trading-Algorithm
